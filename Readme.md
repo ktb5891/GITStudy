@@ -4,4 +4,4 @@
 
 ## 2. Python Statistics learning in Python
 
-### 3. Python Kaggle Training
+## 3. Python Kaggle Training
